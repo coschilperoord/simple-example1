@@ -3,7 +3,7 @@
 inventory:
     plugin: SimpleInventory
     options:
-        host_file: "prodhosts.yaml"
+        host_file: "hosts.yaml"
         group_file: "groups.yaml"
         defaults_file: "defaults.yaml"
 

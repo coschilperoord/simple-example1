@@ -2,28 +2,20 @@
 
 R1:
     hostname: "192.168.178.231"
-    username: netadmin
-    password: Juniper123!
     groups:
         - cisco_group
 
 R2:
     hostname: "192.168.178.232"
-    username: netadmin
-    password: Juniper123!
     groups:
         - cisco_group
 
 R3:
     hostname: "192.168.178.233"
-    username: netadmin
-    password: Juniper123!
     groups:
         - cisco_group
 
 R4:
     hostname: "192.168.178.234"
-    username: netadmin
-    password: Juniper123!
     groups:
         - cisco_group
